@@ -5,7 +5,7 @@ alim1381/alim1381 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 # 💫 About Me:
-Hi im alim 😉<br>Web Developer 🌍<br>Next , React , Express Js 🔥 <br/>
+Hi im alim 😉<br>Web Developer 🌍<br>Next , React , Nest Js 🔥 <br/>
 <b>Gmail : </b> ali.moaydi2020@gmail.com
 
 <!-- <h3 align="left">Languages and Tools:</h3>
